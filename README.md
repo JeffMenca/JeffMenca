@@ -15,7 +15,6 @@
 
 
 <ul>
-  <li>💼 Currently working as a <strong>Frontend Developer at Cartful Solutions</strong></li>
   <li>⚙️ Focused on building <strong>high-performance, accessible web interfaces</strong> using <strong>React, JavaScript (ES6+), SASS</strong>, and <strong>Tailwind CSS</strong></li>
   <li>🧠 Experienced in <strong>state management</strong> (Redux, Context API) and <strong>component-based architecture</strong></li>
   <li>🎨 Skilled in <strong>UI/UX design</strong> with <strong>Figma</strong>, applying user-centered principles to create intuitive and consistent interfaces</li>
