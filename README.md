@@ -15,13 +15,12 @@
 
 <ul>
   <li>🚀 Currently working on a <strong>freelance project for ScalingSoft</strong>, developing <strong>AI Agents</strong> using <strong>React and NestJS</strong>.</li>
-  <li>🎓 <strong>Teaching Assistant (Auxiliar)</strong> at university, supporting engineering students.</li>
+  
   <li>🎮 Developing <strong>"The Fallen One"</strong>, a souls-like game inspired by <i>Zelda</i> and <i>Samurai Jack</i> using <strong>Unity and Blender</strong>.</li>
   <li>⚙️ Focused on building <strong>high-performance, accessible web interfaces</strong> using <strong>React, JavaScript (ES6+), SASS</strong>, and <strong>Tailwind CSS</strong>.</li>
   <li>🧠 Experienced in <strong>state management</strong> (Redux, Context API) and <strong>component-based architecture</strong>.</li>
   <li>🔗 APIs: <strong>REST / GraphQL</strong> • Exploring <strong>Vue.js</strong> & <strong>Svelte</strong>.</li>
-  <li>📫 <strong>jeffrey.menendez.castillo@gmail.com</strong></li>
-  <li>📄 <a href="https://www.linkedin.com/in/jeffmenca/" target="_blank">LinkedIn</a></li>
+
 </ul>
 
 <br>
@@ -105,11 +104,4 @@
 </p>
 
 <br>
-
-<h2>📁 Recent Projects</h2>
-<ul>
-  <li><strong>Syshub:</strong> Workspace and project management system.</li>
-  <li><strong>Code 'n Bugs:</strong> A platform focused on coding challenges and debugging.</li>
-</ul>
-
 <br>
