@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/JeffMenca" target="_blank">Jeffrey Menéndez</a></h1>
-<h2 align="center">A passionate Mid-level Frontend Developer & UX/UI Designer</h2>
+<h2 align="center">A passionate Mid-level Frontend Developer & Game Developer</h2>
 <br/>
 
 <a href="https://github.com/JeffMenca" target="_blank" style="text-decoration:none;">
@@ -7,19 +7,19 @@
     align="right" 
     height="300" 
     width="400" 
-    alt="Frontend Developer & UX Designer" 
+    alt="Frontend & Game Developer" 
     src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b29b223-1992-414b-849b-4ab6ecea943c/dbg4hlw-0e3b8e83-54fa-4465-9169-3fe49f7e22a9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNiMjliMjIzLTE5OTItNDE0Yi04NDliLTRhYjZlY2VhOTQzY1wvZGJnNGhsdy0wZTNiOGU4My01NGZhLTQ0NjUtOTE2OS0zZmU0OWY3ZTIyYTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uX08WksTmpq2QQ5XH4TZWc9vz-SfDET-uEGh7vr-92I"
     style="border-radius:12px;"
   />
 </a>
 
-
 <ul>
-  <li>⚙️ Focused on building <strong>high-performance, accessible web interfaces</strong> using <strong>React, JavaScript (ES6+), SASS</strong>, and <strong>Tailwind CSS</strong></li>
-  <li>🧠 Experienced in <strong>state management</strong> (Redux, Context API) and <strong>component-based architecture</strong></li>
-  <li>🎨 Skilled in <strong>UI/UX design</strong> with <strong>Figma</strong>, applying user-centered principles to create intuitive and consistent interfaces</li>
-  <li>🔗 APIs: <strong>REST / GraphQL</strong> • Exploring <strong>Vue.js</strong> & <strong>Svelte</strong></li>
-  <li>📚 Completing the <strong>Google UX Design Professional Certificate</strong></li>
+  <li>🚀 Currently working on a <strong>freelance project for ScalingSoft</strong>, developing <strong>AI Agents</strong> using <strong>React and NestJS</strong>.</li>
+  <li>🎓 <strong>Teaching Assistant (Auxiliar)</strong> at university, supporting engineering students.</li>
+  <li>🎮 Developing <strong>"The Fallen One"</strong>, a souls-like game inspired by <i>Zelda</i> and <i>Samurai Jack</i> using <strong>Unity and Blender</strong>.</li>
+  <li>⚙️ Focused on building <strong>high-performance, accessible web interfaces</strong> using <strong>React, JavaScript (ES6+), SASS</strong>, and <strong>Tailwind CSS</strong>.</li>
+  <li>🧠 Experienced in <strong>state management</strong> (Redux, Context API) and <strong>component-based architecture</strong>.</li>
+  <li>🔗 APIs: <strong>REST / GraphQL</strong> • Exploring <strong>Vue.js</strong> & <strong>Svelte</strong>.</li>
   <li>📫 <strong>jeffrey.menendez.castillo@gmail.com</strong></li>
   <li>📄 <a href="https://www.linkedin.com/in/jeffmenca/" target="_blank">LinkedIn</a></li>
 </ul>
@@ -39,6 +39,7 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -48,6 +49,7 @@
 <h4>Frontend Development</h4>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
@@ -55,6 +57,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</p>
+
+<h4>Game Development & 3D</h4>
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
 </p>
 
 <h4>Backend Frameworks & Tools</h4>
@@ -95,3 +103,13 @@
   <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </p>
+
+<br>
+
+<h2>📁 Recent Projects</h2>
+<ul>
+  <li><strong>Syshub:</strong> Workspace and project management system.</li>
+  <li><strong>Code 'n Bugs:</strong> A platform focused on coding challenges and debugging.</li>
+</ul>
+
+<br>
