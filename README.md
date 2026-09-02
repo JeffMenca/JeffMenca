@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/JeffMenca" target="_blank">Jeffrey Menéndez</a></h1>
-<h2 align="center">A passionate Mid-level Frontend Developer & Game Developer</h2>
+<h2 align="center">Software Developer · Frontend &amp; UI Architecture · Agentic Workflows &amp; SDD · Game Dev</h2>
 <br/>
 
 <a href="https://github.com/JeffMenca" target="_blank" style="text-decoration:none;">
@@ -7,20 +7,24 @@
     align="right" 
     height="300" 
     width="400" 
-    alt="Frontend & Game Developer" 
+    alt="Software & Game Developer" 
     src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b29b223-1992-414b-849b-4ab6ecea943c/dbg4hlw-0e3b8e83-54fa-4465-9169-3fe49f7e22a9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNiMjliMjIzLTE5OTItNDE0Yi04NDliLTRhYjZlY2VhOTQzY1wvZGJnNGhsdy0wZTNiOGU4My01NGZhLTQ0NjUtOTE2OS0zZmU0OWY3ZTIyYTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uX08WksTmpq2QQ5XH4TZWc9vz-SfDET-uEGh7vr-92I"
     style="border-radius:12px;"
   />
 </a>
 
 <ul>
-  <li>🚀 Currently working on a <strong>freelance project for ScalingSoft</strong>, developing <strong>AI Agents</strong> using <strong>React and NestJS</strong>.</li>
-  
-  <li>🎮 Developing <strong>"The Fallen One"</strong>, a souls-like game inspired by <i>Zelda</i> and <i>Samurai Jack</i> using <strong>Unity and Blender</strong>.</li>
-  <li>⚙️ Focused on building <strong>high-performance, accessible web interfaces</strong> using <strong>React, JavaScript (ES6+), SASS</strong>, and <strong>Tailwind CSS</strong>.</li>
-  <li>🧠 Experienced in <strong>state management</strong> (Redux, Context API) and <strong>component-based architecture</strong>.</li>
-  <li>🔗 APIs: <strong>REST / GraphQL</strong> • Exploring <strong>Vue.js</strong> & <strong>Svelte</strong>.</li>
+  <li>🚀 Currently building <strong>Eppigo</strong>, a <strong>React Native</strong> mobile app, at <strong>Vastago Studio / Epicare Insurance</strong>.</li>
 
+  <li>🤖 Working with <strong>agentic workflows</strong>: custom agents, commands and planning flows with <strong>Claude Code</strong>, applying <strong>Spec-Driven Development (SDD)</strong>.</li>
+
+  <li>🎮 Developing <strong>"The Fallen One"</strong>, a souls-like game inspired by <i>Zelda</i> and <i>Samurai Jack</i>, using <strong>Unity, C# and Blender</strong>.</li>
+
+  <li>🎓 <strong>Teaching Assistant</strong> for <strong>Formal Languages &amp; Programming</strong> at <strong>USAC — CUNOC</strong>, mentoring students on compilers: automata, lexers and parsers.</li>
+
+  <li>⚙️ Focused on <strong>UI architecture</strong>: reusable component systems, accessibility and performance with <strong>React, Next.js, TypeScript</strong> and <strong>Tailwind CSS</strong>.</li>
+
+  <li>🔗 APIs: <strong>REST / GraphQL</strong> • Exploring <strong>Svelte</strong> and <strong>LLM tooling</strong>.</li>
 </ul>
 
 <br>
@@ -45,12 +49,14 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
 
-<h4>Frontend Development</h4>
+<h4>Frontend &amp; Mobile</h4>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -58,13 +64,21 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-<h4>Game Development & 3D</h4>
+<h4>Agentic Workflows &amp; AI</h4>
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Spec--Driven_Development-1F3864?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/LLM_Integration-4B32C3?style=for-the-badge&logo=probot&logoColor=white">
+</p>
+
+<h4>Game Development &amp; 3D</h4>
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
 </p>
 
-<h4>Backend Frameworks & Tools</h4>
+<h4>Backend Frameworks &amp; Tools</h4>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
@@ -78,7 +92,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
-<h4>DevOps & Workflow</h4>
+<h4>DevOps &amp; Workflow</h4>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
@@ -100,8 +114,14 @@
   <img src="https://img.shields.io/badge/Magento-F46F25?style=for-the-badge&logo=magento&logoColor=white">
   <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
   <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </p>
 
 <br>
+
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JeffMenca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffMenca&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+</p>
+
 <br>
